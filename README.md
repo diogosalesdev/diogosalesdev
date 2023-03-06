@@ -19,6 +19,7 @@
   <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Diogo-Jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Diogo-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Diogo-Jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust.svg">
   <img align="center" alt="Diogo-AWS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
     <img align="center" alt="Diogo-badge-AWS" height="80" width="80" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
 </div>
